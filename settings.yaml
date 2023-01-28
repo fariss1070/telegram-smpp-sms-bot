@@ -1,0 +1,18 @@
+---
+log_level: 'DEBUG'
+
+telegram:
+  bot_token: '5559413706:AAF6QZi4iWDS9sfIvsE-81ajc7uI2oAX-EE'
+  channel_id: '1298639823'
+  proxy_enabled: False
+  proxy_host: 'socks5://SOCKS5_IP_ADDR:1881'
+  proxy_login: 'SOCKS_LOGIN'
+  proxy_pass: 'SOCKS_PASSWD'
+
+smpp_goip:
+  host: '200.0.57.250'
+  port: 7777
+  system_id: 'inter'
+  password: 'jmi9472'
+  sim_num: '+5574999351796'
+
